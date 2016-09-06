@@ -78,6 +78,7 @@
 		1903D4F21D7EA9CD006E7CAD /* firstPage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = firstPage.png; sourceTree = "<group>"; };
 		1903D4F61D7EA9FE006E7CAD /* lastPage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = lastPage.png; sourceTree = "<group>"; };
 		1903D4F81D7EACD0006E7CAD /* watermark.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = watermark.jpeg; sourceTree = "<group>"; };
+		1903D4FA1D7EAFC3006E7CAD /* Photos.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Photos.framework; path = System/Library/Frameworks/Photos.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,6 +109,7 @@
 		1903D49A1D7E9A7B006E7CAD = {
 			isa = PBXGroup;
 			children = (
+				1903D4FA1D7EAFC3006E7CAD /* Photos.framework */,
 				1903D4E51D7EA7A7006E7CAD /* Resources */,
 				1903D4DB1D7E9FC8006E7CAD /* VideoManager */,
 				1903D4A51D7E9A7B006E7CAD /* AVFoundation-Video */,
