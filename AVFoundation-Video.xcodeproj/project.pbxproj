@@ -15,6 +15,18 @@
 		1903D4B61D7E9A7B006E7CAD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1903D4B41D7E9A7B006E7CAD /* LaunchScreen.storyboard */; };
 		1903D4C11D7E9A7B006E7CAD /* AVFoundation_VideoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1903D4C01D7E9A7B006E7CAD /* AVFoundation_VideoTests.m */; };
 		1903D4CC1D7E9A7B006E7CAD /* AVFoundation_VideoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1903D4CB1D7E9A7B006E7CAD /* AVFoundation_VideoUITests.m */; };
+		1903D4E21D7E9FC8006E7CAD /* AVAddWatermarkToVideo.m in Sources */ = {isa = PBXBuildFile; fileRef = 1903D4DD1D7E9FC8006E7CAD /* AVAddWatermarkToVideo.m */; };
+		1903D4E31D7E9FC8006E7CAD /* AVMergeAndSaveVideo.m in Sources */ = {isa = PBXBuildFile; fileRef = 1903D4DF1D7E9FC8006E7CAD /* AVMergeAndSaveVideo.m */; };
+		1903D4E41D7E9FC8006E7CAD /* AVSyntheticVideoManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 1903D4E11D7E9FC8006E7CAD /* AVSyntheticVideoManager.m */; };
+		1903D4EC1D7EA80C006E7CAD /* IMG_01.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1903D4E61D7EA80C006E7CAD /* IMG_01.jpg */; };
+		1903D4ED1D7EA80C006E7CAD /* IMG_02.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1903D4E71D7EA80C006E7CAD /* IMG_02.jpg */; };
+		1903D4EE1D7EA80C006E7CAD /* IMG_03.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1903D4E81D7EA80C006E7CAD /* IMG_03.jpg */; };
+		1903D4EF1D7EA80C006E7CAD /* IMG_04.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1903D4E91D7EA80C006E7CAD /* IMG_04.jpg */; };
+		1903D4F01D7EA80C006E7CAD /* IMG_05.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1903D4EA1D7EA80C006E7CAD /* IMG_05.jpg */; };
+		1903D4F11D7EA80C006E7CAD /* IMG_06.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1903D4EB1D7EA80C006E7CAD /* IMG_06.jpg */; };
+		1903D4F31D7EA9CD006E7CAD /* firstPage.png in Resources */ = {isa = PBXBuildFile; fileRef = 1903D4F21D7EA9CD006E7CAD /* firstPage.png */; };
+		1903D4F71D7EA9FE006E7CAD /* lastPage.png in Resources */ = {isa = PBXBuildFile; fileRef = 1903D4F61D7EA9FE006E7CAD /* lastPage.png */; };
+		1903D4F91D7EACD0006E7CAD /* watermark.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1903D4F81D7EACD0006E7CAD /* watermark.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +63,21 @@
 		1903D4C71D7E9A7B006E7CAD /* AVFoundation-VideoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "AVFoundation-VideoUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1903D4CB1D7E9A7B006E7CAD /* AVFoundation_VideoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AVFoundation_VideoUITests.m; sourceTree = "<group>"; };
 		1903D4CD1D7E9A7B006E7CAD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1903D4DC1D7E9FC8006E7CAD /* AVAddWatermarkToVideo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AVAddWatermarkToVideo.h; sourceTree = "<group>"; };
+		1903D4DD1D7E9FC8006E7CAD /* AVAddWatermarkToVideo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AVAddWatermarkToVideo.m; sourceTree = "<group>"; };
+		1903D4DE1D7E9FC8006E7CAD /* AVMergeAndSaveVideo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AVMergeAndSaveVideo.h; sourceTree = "<group>"; };
+		1903D4DF1D7E9FC8006E7CAD /* AVMergeAndSaveVideo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AVMergeAndSaveVideo.m; sourceTree = "<group>"; };
+		1903D4E01D7E9FC8006E7CAD /* AVSyntheticVideoManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AVSyntheticVideoManager.h; sourceTree = "<group>"; };
+		1903D4E11D7E9FC8006E7CAD /* AVSyntheticVideoManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AVSyntheticVideoManager.m; sourceTree = "<group>"; };
+		1903D4E61D7EA80C006E7CAD /* IMG_01.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_01.jpg; sourceTree = "<group>"; };
+		1903D4E71D7EA80C006E7CAD /* IMG_02.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_02.jpg; sourceTree = "<group>"; };
+		1903D4E81D7EA80C006E7CAD /* IMG_03.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_03.jpg; sourceTree = "<group>"; };
+		1903D4E91D7EA80C006E7CAD /* IMG_04.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_04.jpg; sourceTree = "<group>"; };
+		1903D4EA1D7EA80C006E7CAD /* IMG_05.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_05.jpg; sourceTree = "<group>"; };
+		1903D4EB1D7EA80C006E7CAD /* IMG_06.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_06.jpg; sourceTree = "<group>"; };
+		1903D4F21D7EA9CD006E7CAD /* firstPage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = firstPage.png; sourceTree = "<group>"; };
+		1903D4F61D7EA9FE006E7CAD /* lastPage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = lastPage.png; sourceTree = "<group>"; };
+		1903D4F81D7EACD0006E7CAD /* watermark.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = watermark.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +108,8 @@
 		1903D49A1D7E9A7B006E7CAD = {
 			isa = PBXGroup;
 			children = (
+				1903D4E51D7EA7A7006E7CAD /* Resources */,
+				1903D4DB1D7E9FC8006E7CAD /* VideoManager */,
 				1903D4A51D7E9A7B006E7CAD /* AVFoundation-Video */,
 				1903D4BF1D7E9A7B006E7CAD /* AVFoundation-VideoTests */,
 				1903D4CA1D7E9A7B006E7CAD /* AVFoundation-VideoUITests */,
@@ -138,6 +167,37 @@
 				1903D4CD1D7E9A7B006E7CAD /* Info.plist */,
 			);
 			path = "AVFoundation-VideoUITests";
+			sourceTree = "<group>";
+		};
+		1903D4DB1D7E9FC8006E7CAD /* VideoManager */ = {
+			isa = PBXGroup;
+			children = (
+				1903D4E01D7E9FC8006E7CAD /* AVSyntheticVideoManager.h */,
+				1903D4E11D7E9FC8006E7CAD /* AVSyntheticVideoManager.m */,
+				1903D4DC1D7E9FC8006E7CAD /* AVAddWatermarkToVideo.h */,
+				1903D4DD1D7E9FC8006E7CAD /* AVAddWatermarkToVideo.m */,
+				1903D4DE1D7E9FC8006E7CAD /* AVMergeAndSaveVideo.h */,
+				1903D4DF1D7E9FC8006E7CAD /* AVMergeAndSaveVideo.m */,
+			);
+			name = VideoManager;
+			path = "AVFoundation-Video/VideoManager";
+			sourceTree = "<group>";
+		};
+		1903D4E51D7EA7A7006E7CAD /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				1903D4E61D7EA80C006E7CAD /* IMG_01.jpg */,
+				1903D4E71D7EA80C006E7CAD /* IMG_02.jpg */,
+				1903D4E81D7EA80C006E7CAD /* IMG_03.jpg */,
+				1903D4E91D7EA80C006E7CAD /* IMG_04.jpg */,
+				1903D4EA1D7EA80C006E7CAD /* IMG_05.jpg */,
+				1903D4EB1D7EA80C006E7CAD /* IMG_06.jpg */,
+				1903D4F21D7EA9CD006E7CAD /* firstPage.png */,
+				1903D4F81D7EACD0006E7CAD /* watermark.jpeg */,
+				1903D4F61D7EA9FE006E7CAD /* lastPage.png */,
+			);
+			name = Resources;
+			path = "AVFoundation-Video/Resources";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -243,8 +303,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1903D4F71D7EA9FE006E7CAD /* lastPage.png in Resources */,
+				1903D4EF1D7EA80C006E7CAD /* IMG_04.jpg in Resources */,
+				1903D4F31D7EA9CD006E7CAD /* firstPage.png in Resources */,
+				1903D4ED1D7EA80C006E7CAD /* IMG_02.jpg in Resources */,
+				1903D4F01D7EA80C006E7CAD /* IMG_05.jpg in Resources */,
 				1903D4B61D7E9A7B006E7CAD /* LaunchScreen.storyboard in Resources */,
+				1903D4EE1D7EA80C006E7CAD /* IMG_03.jpg in Resources */,
+				1903D4F91D7EACD0006E7CAD /* watermark.jpeg in Resources */,
+				1903D4F11D7EA80C006E7CAD /* IMG_06.jpg in Resources */,
 				1903D4B31D7E9A7B006E7CAD /* Assets.xcassets in Resources */,
+				1903D4EC1D7EA80C006E7CAD /* IMG_01.jpg in Resources */,
 				1903D4B11D7E9A7B006E7CAD /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -271,8 +340,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				1903D4AE1D7E9A7B006E7CAD /* ViewController.m in Sources */,
+				1903D4E41D7E9FC8006E7CAD /* AVSyntheticVideoManager.m in Sources */,
 				1903D4AB1D7E9A7B006E7CAD /* AppDelegate.m in Sources */,
+				1903D4E31D7E9FC8006E7CAD /* AVMergeAndSaveVideo.m in Sources */,
 				1903D4A81D7E9A7B006E7CAD /* main.m in Sources */,
+				1903D4E21D7E9FC8006E7CAD /* AVAddWatermarkToVideo.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -496,6 +568,7 @@
 				1903D4D21D7E9A7B006E7CAD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1903D4D31D7E9A7B006E7CAD /* Build configuration list for PBXNativeTarget "AVFoundation-VideoTests" */ = {
 			isa = XCConfigurationList;
@@ -504,6 +577,7 @@
 				1903D4D51D7E9A7B006E7CAD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1903D4D61D7E9A7B006E7CAD /* Build configuration list for PBXNativeTarget "AVFoundation-VideoUITests" */ = {
 			isa = XCConfigurationList;
@@ -512,6 +586,7 @@
 				1903D4D81D7E9A7B006E7CAD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

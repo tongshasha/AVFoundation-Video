@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8AFDE207687F16F8C260BBC22D2BF283405BD560",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "339C66AE28295F33903589DA1C9C805AB7C3E287" : 0,
+    "8AFDE207687F16F8C260BBC22D2BF283405BD560" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2B6519FC-12B5-4976-AABD-C76BD25C8CAC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "339C66AE28295F33903589DA1C9C805AB7C3E287" : "",
+    "8AFDE207687F16F8C260BBC22D2BF283405BD560" : "AVFoundation-Video\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "AVFoundation-Video",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "AVFoundation-Video.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/tongshasha\/swiftTest.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "339C66AE28295F33903589DA1C9C805AB7C3E287"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/tongshasha\/AVFoundation-Video.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8AFDE207687F16F8C260BBC22D2BF283405BD560"
+    }
+  ]
+}
